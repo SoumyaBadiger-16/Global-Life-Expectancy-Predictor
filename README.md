@@ -196,6 +196,9 @@ Actual improvements in data quality or model performance should be reported only
 - IQR-based outlier identification.
 - Data validation and preprocessing best practices.
 
+##Jupyter notebook
+https://colab.research.google.com/drive/1gUcJcyF6AkjfRn4fC0JvmCOOrEcW0cX4?usp=sharing
+
 ## 📄 License
 
 This project is intended for educational and learning purposes. Add an appropriate open-source license if you intend to distribute the project under specific reuse terms.
